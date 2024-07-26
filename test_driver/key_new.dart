@@ -360,7 +360,7 @@ void main() {
           await driver.tap(find.byValueKey('serverSettingsAddServer'));
           await driver.tap(find.byType('TextFormField'));
           await driver.enterText(
-            'ssl://electrum2.deutsche-emark.com:50002',
+            'ssl://homeserverubuntu.6iowhonrd80ddqwi.myfritz.net:50002',
           ); //main net server for testnet wallet
           await driver.tap(find.byValueKey('saveServerButton'));
           expect(

@@ -24,7 +24,7 @@ class AvailableCoins {
       txVersion: 3,
       electrumRequiredProtocol: 1.4,
       electrumServers: [
-        'wss://t5.kamania.com:50004',
+        'wss://homeserverubuntu.6iowhonrd80ddqwi.myfritz.net:50004',
        ],
       marismaServers: [
         ('marisma.ppc.lol', 8443),
