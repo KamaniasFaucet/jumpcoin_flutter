@@ -240,7 +240,7 @@ packages:
       sha256: "c23ed315a84c27c8881179948e7de72a69fa5f1406db5cfc8aa74c37acad1b79"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.1"
+    version: "0.0.2"
   jumpcoinlib_flutter:
     dependency: "direct main"
     description:

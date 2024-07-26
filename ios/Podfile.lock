@@ -3,7 +3,7 @@ PODS:
     - Flutter
   - camera_avfoundation (0.0.1):
     - Flutter
-  - jumpcoinlib_flutter (0.0.2):
+  - jumpcoinlib_flutter (0.0.3):
     - Flutter
     - FlutterMacOS
   - connectivity_plus (0.0.1):
