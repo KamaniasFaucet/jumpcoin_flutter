@@ -21,7 +21,7 @@ class AvailableCoins {
       fixedFeePerKb: 0.01,
       explorerUrl: 'https://chainz.cryptoid.info/dem/',
       genesisHash: '00000fa4edca746cef5d3e903ca8691f3fa9602e6055e351a53be2e109f9a4e3',
-      txVersion: 2,
+      txVersion: 1,
       electrumRequiredProtocol: 1.4,
       electrumServers: [
         'wss://explorer.nmnsc.com:50004',
